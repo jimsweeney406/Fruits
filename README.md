@@ -1,5 +1,5 @@
 # Fruits
-Fruits isa  light weight Fruit app with SwiftUI views and features
+Fruits is a light weight Fruit app with SwiftUI views and features
 
 ## Features
 - Onboarding screen
